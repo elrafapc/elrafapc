@@ -5,4 +5,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC3VYCgM10rthuMLN-Z_QDKA)](https://www.youtube.com/channel/UC3VYCgM10rthuMLN-Z_QDKA)
 
 ### About me
-I'm a {Quality Assurance Analist} who loves technology and teach everything i learn. Please follow me in my social networks!
+I'm a Quality Assurance Analist who loves technology and teach everything i learn. Please follow me in my social networks!
