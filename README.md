@@ -1,4 +1,4 @@
-### Hi there... I'm Rafael Carneiro! :D
+### Hi there... I'm Rafael Carneiro! 
 
 <div>
  <p>
