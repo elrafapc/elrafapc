@@ -1,8 +1,8 @@
 ## Welcome! I'm Rafael Carneiro from QA Skills! :D
 
-[![Rafael Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=elrafapc)](https://github.com/elrafapc/github-readme-stats)
+[![Rafael Carneiro GitHub stats](https://github-readme-stats.vercel.app/api?username=elrafapc)](https://github.com/elrafapc/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrafapc)](https://github.com/elrafapc/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elrafapc)](https://github.com/elrafapc/github-readme-stats)
+
 
 
 
