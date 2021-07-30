@@ -1,4 +1,7 @@
-## Hi there! I'm Rafael Carneiro from QA Skills! :D
+### Hi there! I'm Rafael Carneiro from QA Skills! :D
+
+ <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" target="_blank"></a>
+
 <div>
   <a href="https://github.com/elrafapc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elrafapc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
